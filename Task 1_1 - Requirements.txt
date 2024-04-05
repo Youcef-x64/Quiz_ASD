@@ -1,0 +1,5 @@
+- The system should allow users to search through the contacts
+- The system should allow users to update existing contacts
+- The system should allow users to delete old contacts
+- The system should allow users to merge duplicate contacts
+- The system should allow users to enter contact ( first name, last name, company field, job title field, zero or more phone numbers with label, and zero or more email addresses, with label)
